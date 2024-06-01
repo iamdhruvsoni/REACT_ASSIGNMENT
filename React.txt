@@ -1,0 +1,48 @@
+Q-1 What is React Js?
+
+=>React.js, often simply referred to as React, is a popular open-source JavaScript library used for building user interfaces, particularly single-page applications       where the user interacts with the web page dynamically without needing to reload the entire page. Developed and maintained by Facebook along with a community of        developers, React has become one of the most widely-used libraries in web development.
+
+Q-2 What is NPM in React Js?
+
+=> The command npm is used to download JavaScript packages from Node Package Manager, and npx is used to execute JavaScript packages downloaded this way.
+   This command will download the NPM package create-react-app to a subdirectory of the current working directory named node_modules:
+   1)npm install create-react-app
+
+Q-3 What is Role of Node js in react js?
+
+=>Remember,react renders UI Components on the frontend,while Node.js manages server-side data communication.The synergy between React js and Node.js creates a cohesive and responsive web application.
+
+Q-4 What is CLI command in React js?
+
+=>React has its own command-line-interface(CLI)commands.However,these CLI commands are currently only used to create a passable version of a react application using the command line.
+
+Q-5 What is Components in React js?
+
+=>Components are independent and reusable bits of code.They serve the same purpose as javascript functions,but works in isolation
+and return HTML.Components come in two types.Class components and functional components.
+
+Q-6  What is Header and Content Components in React Js?
+
+Q-7 How to install React Js on Windows, Linux Operating System? How to install NPM and How to check version of NPM?
+
+=> To check version of npm on windows and Linux = npm --version.
+   To install React js on windows and Linux ->npx create-react-app my-react-app after completion of it.
+                                            ->cd my-react-app
+   To install npm on Linux -> sudo apt update
+                           -> sudo apt install nodejs npm
+
+Q-8  How to check version of React Js?
+
+=>One can check the version of React Js in Package.json file.
+
+Q-9 How to change in components of React Js?
+
+
+
+
+
+
+
+
+
+
