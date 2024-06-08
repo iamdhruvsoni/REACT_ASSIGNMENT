@@ -1,0 +1,23 @@
+.incdiv{
+    background-color: dodgerblue;
+}
+button
+{
+    background-color: black;
+    color: white;
+    width: 14%;
+    font-size: 1.5rem;
+    margin: 10px;
+}
+.btn
+{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   /* margin-left: 50px; */
+}
+
+.inc
+{
+    margin-left: 50px;
+}
